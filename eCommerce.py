@@ -1,5 +1,5 @@
 #Teste de matriz
-
+#revendo matriz
 #catalogo é uma matriz
 # catalogo = [
 #     ["Camiseta Azul", 59.90, 120, [38, 40, 42, 44]],
